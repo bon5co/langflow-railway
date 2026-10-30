@@ -1,5 +1,9 @@
 # Langflow on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/langflow-or-just-updated-visual-ai-agent?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Langflow template](https://railway.com/deploy/langflow-or-just-updated-visual-ai-agent?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for the [Langflow](https://github.com/langflow-ai/langflow) visual
 AI workflow / agent builder, built for Railway.
 
